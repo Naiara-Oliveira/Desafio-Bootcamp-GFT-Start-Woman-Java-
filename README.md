@@ -1,4 +1,3 @@
 # Desafio Bootcamp GFT Start Woman Java
 Desafio de git e github da DIO GFT Start Woman Java
-<img src="![image](https://user-images.githubusercontent.com/89230677/165840072-e6d35f99-b4d2-4ed3-9e76-a3ac958f0238.png)
-" alt="My cool logo"/>
+<img src="https://hermes.digitalinnovation.one/tracks/84b3149d-757f-4d2b-8f4a-a1d6d3729595.png" alt="My cool logo"/>
